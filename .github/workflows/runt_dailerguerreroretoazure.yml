@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'DailerGuerreroRetoazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E77E3C0310944875B675F3BD85153821 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B6C5F15771B444EB560C5568E0435FC }}
           package: '*.jar'
